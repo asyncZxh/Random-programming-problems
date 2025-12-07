@@ -1,0 +1,18 @@
+EVEN OR ODD COUNTER
+
+Scenario: Count how many numbers in a sequence are even and how many are odd. The sequence ends when the user 
+inputs 0 (0 is not counted). 
+
+Input: A series of integers, one per line, ending with 0. 
+Output: Two integers separated by a comma: Even: <even_count>, Odd: <odd_count>. 
+
+Sample Input 
+Enter a number(s):  
+5 
+8 
+3 
+2 
+0 
+
+Sample Output 
+Even: 2, Odd: 2 
