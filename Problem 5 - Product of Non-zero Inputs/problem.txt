@@ -1,0 +1,16 @@
+Product of Non-zero Inputs 
+
+Scenario: Read integers until -1 is entered (terminator). Compute the product of all non-zero inputs (ignore zeros). If 
+there are no non-zero inputs, output 0. 
+
+Input: Sequence of integers, each on its own line, terminated by -1. -1 is not included in the product. 
+Output: Single integer: product or 0 if no non-zero numbers. 
+
+Sample Input 
+Enter integers:  
+2 
+0 
+3 -1 
+
+Sample Output 
+6 
