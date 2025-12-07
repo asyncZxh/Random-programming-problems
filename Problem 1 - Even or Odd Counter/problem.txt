@@ -1,4 +1,4 @@
-EVEN OR ODD COUNTER
+Even or Odd Counter
 
 Scenario: Count how many numbers in a sequence are even and how many are odd. The sequence ends when the user 
 inputs 0 (0 is not counted). 

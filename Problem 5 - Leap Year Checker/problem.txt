@@ -1,11 +1,11 @@
-LEAP YEAR CHECKER 
+Leap Year Checker 
 
 Scenario: Determine whether a year is a leap year using Gregorian rules: divisible by 4, except years divisible by 100 
 unless divisible by 400. 
 
 Input: Single integer y (year). 
 Output: YES if it is a leap year, otherwise NO. 
-    
+
 Sample Input 
 Enter year: 2000 
 

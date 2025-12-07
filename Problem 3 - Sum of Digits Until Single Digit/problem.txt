@@ -1,4 +1,4 @@
-SUM OF DIGITS UNTIL SINGLE DIGIT
+Sum of Digits Until Single Digit
 
 Scenario: Repeatedly sum the digits of a non-negative integer until the result is a single digit. 
 Output that single digit. 

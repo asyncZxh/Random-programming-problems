@@ -1,4 +1,4 @@
-GRADE CLASSIFIER 
+Grade Classifier
 
 Scenario: Given a numeric grade (0–100), print the grade category: 
 • A if 90–100, B if 80–89, C if 70–79, D if 60–69, F otherwise. 
