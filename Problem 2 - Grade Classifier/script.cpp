@@ -1,19 +1,11 @@
 #include <iostream>
 
-void computeGrades(int);
-
 int main()
 {
     int grade;
     std::cout << "Enter Grade: ";
     std::cin >> grade;
-    computeGrades(grade);
 
-    return 0;
-}
-
-void computeGrades(int grade)
-{
     if (grade >= 90 && grade <= 100)
         std::cout << "A";
     else if (grade >= 80 && grade <= 89)
@@ -26,4 +18,6 @@ void computeGrades(int grade)
         std::cout << "invalid input";
     else
         std::cout << "F";
+
+    return 0;
 }
