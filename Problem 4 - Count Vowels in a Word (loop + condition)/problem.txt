@@ -1,0 +1,12 @@
+Count Vowels in a Word (loop + condition) 
+
+Scenario: Count vowels (a, e, i, o, u — case-insensitive) in an input word. 
+
+Input: A single line containing a non-empty word (letters only). 
+Output: One integer: number of vowels in the word. 
+
+Sample Input 
+Enter word: Education 
+
+Sample Output 
+5
