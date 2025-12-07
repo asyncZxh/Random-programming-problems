@@ -1,0 +1,14 @@
+SUM OF DIGITS UNTIL SINGLE DIGIT
+
+Scenario: Repeatedly sum the digits of a non-negative integer until the result is a single digit. 
+Output that single digit. 
+
+Input: A single non-negative integer n. 
+Output: One integer: the final single-digit result (0–9). 
+
+Sample Input 
+Enter a positive number(s): 9875 
+
+Sample Output 
+2 
+(Explanation: 9+8+7+5=29 -> 2+9=11 -> 1+1=2) 
