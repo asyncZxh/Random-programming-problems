@@ -1,1 +1,12 @@
+Positive, Negative, or Zero 
 
+Scenario: Classify a number as "POSITIVE", "NEGATIVE", or "ZERO". 
+
+Input: Single integer x. 
+Output: One word: result. 
+
+Sample Input 
+Enter a integer: 0
+
+Sample Output 
+ZERO 
