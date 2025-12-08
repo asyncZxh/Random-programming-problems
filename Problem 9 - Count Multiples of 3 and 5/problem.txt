@@ -1,0 +1,22 @@
+Count Multiples of 3 and 5 
+
+Scenario: Read n positive integers and count how many of them are multiples of 3, multiples of 5, 
+and multiples of both 3 and 5. 
+
+Input: 
+First line: integer n (1 ≤ n ≤ 1000). 
+Next n lines: one integer each. 
+Output: Three integers separated by spaces: <count_mult3> <count_mult5> <count_both>. 
+
+Sample Input 
+Enter integers: 
+6 
+3 
+5 
+15 
+2 
+30 
+9
+
+Sample Output 
+4 3 2 
