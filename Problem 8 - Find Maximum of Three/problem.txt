@@ -1,0 +1,13 @@
+Find Maximum of Three 
+
+Scenario: Read three integers and print the maximum. Use only conditional statements (if-else), not built-in max 
+functions. 
+
+Input: Three space-separated integers x y z. 
+Output: Single integer: the maximum among x, y, z. 
+
+Sample Input 
+Enter 3 integers: 4 7 2 
+
+Sample Output 
+7 
