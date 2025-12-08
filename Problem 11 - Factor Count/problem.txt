@@ -1,0 +1,15 @@
+Factor Count 
+
+Scenario: Given a positive integer, count how many factors it has (including 1 and itself). 
+
+Input: 
+A single integer n. 
+Output: 
+One integer: number of factors. 
+
+Sample Input 
+Enter a positive integer: 12 
+
+Sample Output 
+6 
+(Explanation: 1,2,3,4,6,12)
