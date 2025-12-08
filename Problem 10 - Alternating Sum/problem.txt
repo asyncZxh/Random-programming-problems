@@ -1,0 +1,13 @@
+Alternating Sum 
+
+Scenario: Given a positive integer n, compute the alternating sum 1 - 2 + 3 - 4 + ... ± n. 
+
+Input: Single integer n. 
+Output: Single integer: the alternating sum. 
+
+Sample Input 
+Enter a positive integer: 5 
+
+Sample Output 
+3 
+(Explanation: 1-2+3-4+5 = 3) `
