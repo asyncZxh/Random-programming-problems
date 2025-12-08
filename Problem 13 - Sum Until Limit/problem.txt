@@ -1,0 +1,16 @@
+Sum Until Limit 
+
+Scenario: Continuously read integers and keep adding them until the sum reaches or exceeds 100. Print the sum and 
+stop immediately. 
+
+Input: A sequence of integers, one per line. 
+Output: Final sum (≥ 100). 
+
+Sample Input 
+Enter a integer:  
+30 
+40 
+35
+
+Sample Output 
+105 
