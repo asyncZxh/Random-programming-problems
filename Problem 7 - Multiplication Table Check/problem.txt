@@ -1,0 +1,13 @@
+Multiplication Table Check 
+
+Scenario: Given integers a, b, c, check whether c equals a multiplied by b without using multiplication operator (use 
+loop / repeated addition or other logic). 
+
+Input: Three integers a b c separated by spaces. 
+Output: YES if c == a*b, else NO. 
+
+Sample Input 
+Enter 3 integers: 3 4 12 
+
+Sample Output 
+Yes
