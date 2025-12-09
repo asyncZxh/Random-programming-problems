@@ -1,0 +1,12 @@
+Even Digit Counter 
+
+Scenario: Count how many even digits appear in a positive integer. 
+
+Input: A positive integer num. 
+Output: Number of even digits. 
+
+Sample Input 
+Enter a positive integer: 48271 
+
+Sample Output 
+3 
