@@ -1,0 +1,15 @@
+Positive Count Until Zero 
+
+Scenario: Read integers repeatedly until the user enters 0. Count how many positive numbers were entered.
+
+Input: A series of integers ending with 0. 
+Output: Count of positive values. 
+
+Sample Input 
+Enter integers: 
+5 -1 
+3 
+0
+
+Sample Output 
+2 
