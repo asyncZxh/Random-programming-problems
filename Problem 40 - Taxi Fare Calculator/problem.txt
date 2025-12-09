@@ -1,0 +1,13 @@
+Taxi Fare Calculator
+
+Scenario: A taxi service charges a base fare of ₱40 plus ₱7 per kilometer traveled. Compute the total fare based on 
+kilometers entered. 
+
+Input: A decimal value representing kilometers traveled. 
+Output: Total fare (no formatting required). 
+
+Sample Input 
+Enter distance (km): 5 
+
+Sample Output 
+75
