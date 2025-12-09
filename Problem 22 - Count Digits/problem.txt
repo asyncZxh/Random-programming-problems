@@ -1,0 +1,12 @@
+Count Digits 
+
+Scenario: Count how many digits are in a non-negative integer. 
+
+Input: Integer n. 
+Output: One integer: number of digits. 
+
+Sample Input 
+Enter a positive integer: 789 
+
+Sample Output 
+3 
