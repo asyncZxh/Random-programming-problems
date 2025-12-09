@@ -1,0 +1,12 @@
+Largest Digit in a Number 
+
+Scenario: Given a non-negative integer, find the largest digit (0–9). 
+
+Input: Integer n. 
+Output: One digit: maximum digit. 
+
+Sample Input 
+Enter two integers: 4729 
+
+Sample Output 
+9 
