@@ -1,0 +1,16 @@
+Alternating Sign Checker 
+
+Scenario: You are given two integers. Determine if their signs alternate (one negative and one positive). 
+
+Input: Two integers a and b. 
+Output: "Alternating" or "Not alternating". 
+
+Sample Input 
+Enter two integers: -3 5 
+
+Sample Output 
+Alternating 
+
+Constraints 
+• Values may be zero 
+• Zero counts as not alternating
