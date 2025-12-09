@@ -1,0 +1,16 @@
+Odd or Even Until Zero 
+
+Scenario: Repeatedly read integers until 0. For each number, print "Odd" or "Even". 
+
+Input: Integers ending with 0. 
+Output: One "Odd" or "Even" per line. 
+
+Sample Input 
+Enter integers:  
+5 
+10 
+0
+
+Sample Output 
+Odd 
+Even 
