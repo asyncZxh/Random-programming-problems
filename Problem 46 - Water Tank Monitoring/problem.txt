@@ -1,0 +1,15 @@
+Water Tank Monitoring 
+
+Scenario: A tank has a capacity of 1000 liters. The program repeatedly reads water added per operation. Stop if the tank 
+becomes full or overflows. Print "Full" if it reaches exactly 1000, "Overflow" if more. 
+
+Input: Series of integers representing added water. 
+Output: Full or Overflow 
+Sample Input 
+Enter water capacity (L): 
+600 
+300 
+100
+
+Sample Output 
+Full 
