@@ -1,0 +1,17 @@
+Bus Passenger Accumulation 
+
+Scenario: A bus starts empty. For n stops, input the number of passengers entering at each stop. Display the final 
+number of passengers. 
+
+Input: n 
+followed by n entries (passengers entering) 
+Output: Final passenger count. 
+
+Sample Input 
+Enter a number of stop: 3 
+5 
+7 
+2
+
+Sample Output 
+14 
