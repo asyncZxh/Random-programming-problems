@@ -1,0 +1,16 @@
+Speed Limit Checker 
+
+Scenario: Check if a car’s speed exceeds the speed limit (60 km/h). Print "OVER SPEEDING", "SAFE", 
+or "INVALID" if negative.
+
+Input: Integer S = speed. 
+Output: One of: 
+• "OVER SPEEDING" 
+• "SAFE" 
+• "INVALID" 
+
+Sample Input 
+Enter car’s speed: 75 
+
+Sample Output 
+OVER SPEEDING 
