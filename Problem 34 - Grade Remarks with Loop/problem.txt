@@ -1,0 +1,24 @@
+Grade Remarks with Loop 
+
+Scenario: Ask for grades 5 times and print "Pass" or "Fail" for each. 
+
+Input: Five integer grades (0–100). 
+Output: Five lines of "Pass" or "Fail". 
+Rule 
+• Pass if ≥ 75 
+• Otherwise Fail 
+
+Sample Input 
+Enter 5 grades: 
+80
+72 
+75 
+90 
+60
+
+Sample Output 
+Pass 
+Fail 
+Pass 
+Pass 
+Fail
