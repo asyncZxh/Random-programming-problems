@@ -1,0 +1,17 @@
+Countdown to Blastoff 
+
+Scenario: Given a starting number, countdown to 1 and display "Blastoff!". 
+
+Input: An integer start. 
+Output: Numbers from start to 1, then "Blastoff!". 
+
+Sample Input 
+Enter an integer: 5
+
+Sample Output
+5
+4 
+3 
+2 
+1
+Blastoff!
