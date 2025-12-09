@@ -1,0 +1,16 @@
+Character Type Checker 
+
+Scenario: Given a single character, determine whether it is: 
+• UPPERCASE LETTER 
+• LOWERCASE LETTER 
+• DIGIT 
+• OTHER 
+
+Input: A single character (string length = 1). 
+Output: One of the 4 classifications above. 
+
+Sample Input 
+Enter a single character: A 
+
+Sample Output 
+UPPERCASE LETTER
