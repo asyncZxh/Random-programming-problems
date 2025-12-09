@@ -1,0 +1,16 @@
+Running Balance 
+
+Scenario: Starting from balance = 0, read integers (positive deposit, negative withdrawal). Stop when 
+input is 999. Print the final balance. 
+
+Input: Multiple integers, one per line; ends when 999 appears (not included). 
+Output: Final balance. 
+
+Sample Input 
+Enter multiple numbers:  
+20 -5 
+30 
+999
+
+Sample Output 
+45 
