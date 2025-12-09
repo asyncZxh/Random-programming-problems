@@ -1,0 +1,16 @@
+Multiplication Table (Single Number) 
+
+Scenario: Display the multiplication table of a given number from 1 to 10. 
+
+Input: An integer n. 
+Output: 10 lines showing: 
+n x i = result 
+
+Sample Input 
+Enter a number: 4 
+
+Sample Output 
+4 x 1 = 4 
+4 x 2 = 8 
+. . . 
+4 x 10 = 40
