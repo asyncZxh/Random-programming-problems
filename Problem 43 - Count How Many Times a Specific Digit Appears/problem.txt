@@ -1,0 +1,14 @@
+Count How Many Times a Specific Digit Appears 
+
+Scenario: Given a number and a target digit, count how many times the digit appears in the number. 
+
+Input: num 
+digit 
+Output: Count of digit appearances. 
+
+Sample Input 
+Enter a number: 45545 
+Enter target digit: 5
+ 
+Sample Output
+3
