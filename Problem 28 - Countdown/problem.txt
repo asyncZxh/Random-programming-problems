@@ -1,0 +1,12 @@
+Countdown 
+
+Scenario: Given an integer N, print a countdown from N to 1. 
+
+Input: Integer N. 
+Output: N, N−1, ..., 1 on separate lines. 
+
+Sample Input 
+Enter an integer: 5 
+
+Sample Output 
+5 4 3 2 1
