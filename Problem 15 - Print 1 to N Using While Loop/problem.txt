@@ -1,0 +1,12 @@
+Print 1 to N Using While Loop 
+
+Scenario: Given a positive integer N, print numbers 1 through N (each on its own line). 
+
+Input: Integer N. 
+Output: Numbers 1…N on separate lines. 
+
+Sample Input 
+Enter a positive integer: 3 
+
+Sample Output 
+1 2 3
