@@ -1,0 +1,15 @@
+Temperature Category 
+
+Scenario: Classify a temperature value as: 
+• "COLD" if below 20 
+• "WARM" if 20–30 
+• "HOT" if above 30 
+
+Input: Single integer T. 
+Output: One word: category. 
+
+Sample Input 
+Enter temperature: 25 
+
+Sample Output 
+WARM 
