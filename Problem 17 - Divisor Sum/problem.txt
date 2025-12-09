@@ -1,0 +1,13 @@
+Divisor Sum
+
+Scenario: Compute the sum of all divisors of a positive integer. 
+
+Input: Single integer n. 
+Output: Sum of divisors. 
+
+Sample Input 
+Enter a positive integer: 6 
+
+Sample Output 
+12 
+(Explanation: 1+2+3+6) 
