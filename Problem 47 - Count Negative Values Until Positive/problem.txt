@@ -1,0 +1,18 @@
+Count Negative Values Until Positive
+
+Scenario: Keep reading integers until the user enters a positive number. Count how many negative values were entered 
+before that. 
+
+Input: A series of integers. 
+Output: Count of negative integers before the first positive. 
+
+Sample Input 
+Enter integers:  
+-5 
+-3 
+0 
+-1 
+7 
+
+Sample Output 
+3 
