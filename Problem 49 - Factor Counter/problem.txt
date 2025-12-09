@@ -1,0 +1,12 @@
+Factor Counter 
+
+Scenario:  Count how many factors (divisors) a number has. 
+
+Input: A positive integer n. 
+Output: The number of factors. 
+
+Sample Input 
+Enter a positive integer: 6 
+
+Sample Output 
+4
