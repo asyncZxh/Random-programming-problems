@@ -1,0 +1,12 @@
+Reverse Digits 
+
+Scenario: Given a non-negative integer, print its digits reversed without converting to array.
+
+Input: Integer n. 
+Output: Reversed integer (no leading zeros).
+
+Sample Input 
+Enter a positive integer: 1200 
+
+Sample Output 
+21
