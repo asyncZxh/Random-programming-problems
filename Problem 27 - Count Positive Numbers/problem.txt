@@ -1,0 +1,18 @@
+Count Positive Numbers 
+
+Scenario: Read N numbers, count how many are strictly positive. 
+
+Input: First line N. 
+Next N lines: one integer each. 
+Output: Count of positive integers. 
+
+Sample Input 
+Enter numbers: 5 
+1 
+-2 
+0 
+7 
+3 
+
+Sample Output 
+3 
