@@ -1,0 +1,13 @@
+Product of All Numbers from a to b 
+
+Scenario: Given two integers a and b (with a ≤ b), compute the product of all integers from a to b inclusive. 
+
+Input: a, b 
+Output: Product (may be large). 
+
+Sample Input 
+Enter two numbers: 2 4 
+
+Sample Output 
+24 
+(Explanation: 2*3*4 = 24)
