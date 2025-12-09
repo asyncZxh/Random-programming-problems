@@ -1,0 +1,12 @@
+Print Only Odd Numbers 
+
+Scenario: Given a positive integer N, print all odd numbers from 1 to N. 
+
+Input: Single integer N. 
+Output: All odd numbers ≤ N (one per line). 
+
+Sample Input 
+Enter a positive integer: 10 
+
+Sample Output 
+1 3 5 7 9
