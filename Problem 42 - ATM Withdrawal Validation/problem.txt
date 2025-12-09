@@ -1,0 +1,17 @@
+ATM Withdrawal Validation 
+
+Scenario: An ATM allows withdrawal only if: 
+• The amount is a multiple of 100 
+• The amount is ≤ current balance 
+Print "Approved" or "Denied". 
+
+Input: balance 
+amount 
+Output: Approved or Denied 
+
+Sample Input 
+Enter balance: 5000 
+Enter withdrawal amount: 1200 
+
+Sample Output 
+Approved
