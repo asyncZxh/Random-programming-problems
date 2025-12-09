@@ -1,0 +1,14 @@
+Sum of First N Even Numbers 
+
+Scenario: Given a positive integer N, compute the sum of the first N even numbers: 
+2 + 4 + 6 + … + (2N) 
+
+Input: Single integer N. 
+Output: One integer: the computed sum. 
+
+Sample Input 
+Enter a positive integer: 3 
+
+Sample Output 
+12 
+(Explanation: 2+4+6)
