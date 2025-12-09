@@ -1,0 +1,15 @@
+Find First Multiple of 9 
+
+Scenario: Read numbers until a number divisible by 9 is entered. Print that number. 
+
+Input: A series of integers. 
+Output: The first number divisible by 9. 
+
+Sample Input
+Enter integers:  
+4 
+20 
+18
+
+Sample Output 
+18 
