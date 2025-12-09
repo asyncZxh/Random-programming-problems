@@ -1,0 +1,13 @@
+Sum of Range 
+
+Scenario: Given two integers A and B (A ≤ B), compute the sum from A to B.
+
+Input: Two integers A and B. 
+Output: Sum from A to B inclusive. 
+
+Sample Input 
+Enter two integers: 3 6 
+
+Sample Output 
+18 
+(Explanation: 3+4+5+6)
