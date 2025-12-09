@@ -1,0 +1,16 @@
+Password Strength Checker 
+
+Scenario: Given a password string, check if the length is at least 8 characters. 
+If ≥ 8 → print "STRONG" 
+Else → "WEAK" 
+
+Input: One line: password string. 
+Output: "STRONG" or "WEAK" 
+
+Sample Input 
+Enter a password: hello123 
+
+Sample Output 
+STRONG 
+
+Constraints: Length 1–200. No spaces.
