@@ -1,0 +1,12 @@
+Count Digits Greater Than 5 
+
+Scenario: Given an integer, count how many digits are greater than 5. 
+
+Input: A positive integer num. 
+Output: Count of digits > 5. 
+
+Sample Input 
+Enter a positive integer: 75821 
+
+Sample Output 
+2
