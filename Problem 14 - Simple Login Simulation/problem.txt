@@ -1,0 +1,20 @@
+Simple Login Simulation 
+
+Scenario: 
+The system has a fixed username "admin" and password "12345". 
+User inputs a username and password. 
+If both match, print "ACCESS GRANTED"; else "ACCESS DENIED". 
+
+Input: 
+Two lines: 
+1. username 
+2. password 
+Output: 
+A single line: "ACCESS GRANTED" or "ACCESS DENIED". 
+
+Sample Input 
+Enter username: admin   
+Enter password: 12345 
+
+Sample Output 
+ACCESS GRANTED
