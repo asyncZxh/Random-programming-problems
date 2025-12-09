@@ -1,0 +1,14 @@
+Character Repeater 
+
+Scenario: Given a character and a number, repeat the character n times. 
+
+Input: A character ch 
+An integer n 
+Output: ch repeated n times. 
+
+Sample Input 
+Enter character and a number: * 
+5 
+
+Sample Output 
+*****
