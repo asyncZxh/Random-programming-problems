@@ -1,0 +1,12 @@
+Count Numbers Divisible by Both 2 and 3 
+
+Scenario: Given a limit n, count how many numbers from 1 to n are divisible by both 2 and 3 (i.e., divisible by 6).
+
+Input: An integer n. 
+Output: Number of integers between 1 and n divisible by both 2 and 3. 
+
+Sample Input 
+Enter an integer: 12 
+
+Sample Output 
+2
